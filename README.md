@@ -146,7 +146,7 @@ Stats panel, product management, and order overview for admins.
 ### 🌙 Light Mode
 Full Light theme toggle with smooth transition.
 
-![Dark Mode](screenshots/Lightmode.png)
+![Dark Mode](screenshots/LightMode.png)
 
 ### 📱 Mobile View
 Fully responsive layout for phones and tablets.
