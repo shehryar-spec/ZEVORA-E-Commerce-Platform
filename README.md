@@ -143,8 +143,8 @@ Stats panel, product management, and order overview for admins.
 
 ![Admin](screenshots/admin.png)
 
-### 🌙 Dark Mode
-Full dark theme toggle with smooth transition.
+### 🌙 Light Mode
+Full Light theme toggle with smooth transition.
 
 ![Dark Mode](screenshots/darkmode.png)
 
