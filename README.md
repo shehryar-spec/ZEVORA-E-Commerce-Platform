@@ -146,7 +146,7 @@ Stats panel, product management, and order overview for admins.
 ### 🌙 Light Mode
 Full Light theme toggle with smooth transition.
 
-![Dark Mode](screenshots/LightMode.png)
+![Dark Mode](screenshots/lightmode.png)
 
 ### 📱 Mobile View
 Fully responsive layout for phones and tablets.
@@ -237,7 +237,7 @@ ZEVORA-E-Commerce-Platform/
     ├── checkout.png
     ├── auth.png
     ├── admin.png
-    ├── darkmode.png
+    ├── lightmode.png
     ├── mobile.png
     ├── urdu.png
     └── blog.png
