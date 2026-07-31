@@ -148,10 +148,6 @@ Full Light theme toggle with smooth transition.
 
 ![Dark Mode](screenshots/lightmode.png)
 
-### 📱 Mobile View
-Fully responsive layout for phones and tablets.
-
-![Mobile](screenshots/mobile.png)
 
 ### 🇵🇰 Urdu / RTL
 Complete Urdu translation with right-to-left layout.
@@ -238,7 +234,6 @@ ZEVORA-E-Commerce-Platform/
     ├── auth.png
     ├── admin.png
     ├── lightmode.png
-    ├── mobile.png
     ├── urdu.png
     └── blog.png
 ```
