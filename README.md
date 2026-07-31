@@ -13,7 +13,7 @@
 
 <br>
 
-![ZEVORA Hero](screenshots/hero.png)
+![ZEVORA Hero](screenshots/Hero.png)
 
 <br>
 
@@ -98,7 +98,7 @@ Built as a demonstration that modern web experiences (routing, state management,
 
 ## 📸 Screenshots
 
-<details>
+<details open>
 <summary><b>Click to expand all screenshots</b></summary>
 
 <br>
@@ -106,62 +106,59 @@ Built as a demonstration that modern web experiences (routing, state management,
 ### 🏠 Home / Hero Section
 The main landing page with animated hero, floating orbit decorations, and stat counters.
 
-![Hero](screenshots/hero.png)
+![Hero](screenshots/Hero.png)
 
 ### 🛒 Product Catalog
 Filterable product grid with hover zoom effects, quick-add buttons, and wishlist hearts.
 
-![Products](screenshots/products.png)
+![Products](screenshots/Products.png)
 
 ### 📂 Departments
 Five curated departments with real photography and hover effects.
 
-![Departments](screenshots/departments.png)
+![Departments](screenshots/Departments.png)
 
 ### 📦 Product Detail
 Individual product pages with gallery, size/color selection, and add-to-cart.
 
-![Product Detail](screenshots/product-detail.png)
+![Product Detail](<screenshots/Product Detail.png>)
 
 ### 🛍️ Shopping Cart
 Slide-out cart drawer with quantity controls and checkout button.
 
-![Cart](screenshots/cart.png)
+![Cart](screenshots/Cart.png)
 
 ### 💳 Checkout
 Multi-step checkout with shipping form and payment options.
 
-![Checkout](screenshots/checkout.png)
+![Checkout](screenshots/Checkout.png)
 
 ### 👤 User Authentication
 Login / signup tabs with demo admin access.
 
-![Auth](screenshots/auth.png)
+![Auth](screenshots/Auth.png)
 
 ### 🧑‍💼 Admin Dashboard
 Stats panel, product management, and order overview for admins.
 
-![Admin](screenshots/admin.png)
+![Admin](screenshots/Admin.png)
 
-### 🌙 Light Mode
-Full Light theme toggle with smooth transition.
+### 🌙 Dark Mode
+Full dark theme toggle with smooth transition.
 
-![Dark Mode](screenshots/lightmode.png)
-
+![Dark Mode](<screenshots/Dark Mode.png>)
 
 ### 🇵🇰 Urdu / RTL
 Complete Urdu translation with right-to-left layout.
 
-![Urdu RTL](screenshots/urdu.png)
+![Urdu RTL](<screenshots/Urdu RTL.png>)
 
 ### 📝 Blog Section
 Blog cards with individual article pages.
 
-![Blog](screenshots/blog.png)
+![Blog](screenshots/Blog.png)
 
 </details>
-
-> **Note:** Screenshots are in the `screenshots/` folder. Replace placeholder images with actual screenshots of the running site.
 
 ---
 
@@ -225,17 +222,17 @@ ZEVORA-E-Commerce-Platform/
 ├── LICENSE                  # MIT license
 │
 └── screenshots/             # For this README
-    ├── hero.png
-    ├── products.png
-    ├── departments.png
-    ├── product-detail.png
-    ├── cart.png
-    ├── checkout.png
-    ├── auth.png
-    ├── admin.png
-    ├── lightmode.png
-    ├── urdu.png
-    └── blog.png
+    ├── Hero.png
+    ├── Products.png
+    ├── Departments.png
+    ├── Product Detail.png
+    ├── Cart.png
+    ├── Checkout.png
+    ├── Auth.png
+    ├── Admin.png
+    ├── Dark Mode.png
+    ├── Urdu RTL.png
+    └── Blog.png
 ```
 
 <details>
