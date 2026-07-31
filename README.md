@@ -143,10 +143,10 @@ Stats panel, product management, and order overview for admins.
 
 ![Admin](screenshots/Admin.png)
 
-### 🌙 Dark Mode
-Full dark theme toggle with smooth transition.
+### 🌙 Light Mode
+Full Light theme toggle with smooth transition.
 
-![Dark Mode](<screenshots/Dark Mode.png>)
+![Dark Mode](<screenshots/Light Mode.png>)
 
 ### 🇵🇰 Urdu / RTL
 Complete Urdu translation with right-to-left layout.
